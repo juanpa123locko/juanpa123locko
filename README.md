@@ -4,7 +4,7 @@
 <br><br>Hi there! 👋<br>🎇 I'm Juan Pablo, a Front-End developer who's on a journey to becoming a full-stack developer. I'm currently in the process of learning new skills and technologies to expand my knowledge and expertise.<br><br>✅ I'm currently working on several personal projects to add to my portfolio website. These projects showcase my skills and highlight my commitment to learning and growing as a developer.<br><br> 🎉 Feel free to check out my GitHub profile and reach out to me if you have any questions or would like to collaborate on a project!<br><br>
 
  [Personal Portfolio](https://juanpa123locko.github.io/Personal-Portfolio/)
-
+[Google](https://google.com" target="_blank)
 📧 mail me: <a href="mailto:juanpa_roto@hotmail.com" target="_blank">juanpa_roto@hotmail.com</a>
 
 
